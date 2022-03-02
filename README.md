@@ -15,6 +15,8 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ### 2. MARCO TEÓRICO
 
+![Diagrama en blanco (12)](https://user-images.githubusercontent.com/93899658/156411156-672aa76a-ceb0-44dc-b5c8-eee354c85400.png)
+
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
