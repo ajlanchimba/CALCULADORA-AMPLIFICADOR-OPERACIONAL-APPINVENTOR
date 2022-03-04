@@ -7,10 +7,13 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ##### 1.1. OBJETIVO GENERAL 
 
-
+- Dieseñar y construir una calculadora en App inventor que permita calcular apmlificadores operacionales.
 
 ##### 1.2. OBJETIVOS ESPECÍFICOS
 
+- Comprender la programacion por medio de bloques y las ventajas que tiene.
+- Investigar y analizar los aplificadores operqacionales.
+- 
 
 
 ### 2. MARCO TEÓRICO
