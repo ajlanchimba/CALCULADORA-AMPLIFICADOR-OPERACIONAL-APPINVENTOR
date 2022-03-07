@@ -156,6 +156,23 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ### 4. RESULTADOS
 
+#### 4.1. SUMADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157082192-7c973a90-0c2d-489e-a78a-fe2258aee5a2.png)
+
+#### 4.2. RESTADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157082578-d6ec99a4-2ede-4b9c-b692-584c752e2163.png)
+
+#### 4.3. MULTIPLICADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157083008-687bda88-5427-48b0-8192-82bfae96dd36.png)
+
+#### 4.5. INTEGRADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157085725-10c4088c-0eb4-4ae8-a06c-5fb9f6f3150a.png)
+
+
 ##### 3.2.5. Se conectan el diac y el triac.
 
       - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
