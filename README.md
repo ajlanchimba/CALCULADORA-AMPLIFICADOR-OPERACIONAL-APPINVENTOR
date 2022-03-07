@@ -27,7 +27,8 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ##### 3.1. Creacion de la cuenta en App Invento y creacion de un nuevo proyecto.
 
-      - Se debe dirigir directamente al siguiente enlace [AppInventor](https://appinventor.mit.edu)      
+      - Se debe dirigir directamente al siguiente enlace 
+   [AppInventor](https://appinventor.mit.edu)    
 
 ![image](https://user-images.githubusercontent.com/93899658/157027710-06d4a36c-062a-45f2-b287-86410b4bfb2b.png)
 
