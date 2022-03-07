@@ -22,6 +22,18 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ![Diagrama en blanco (13)](https://user-images.githubusercontent.com/93899658/156416181-29ba60df-3e72-4c70-b040-fa6a183f16ba.png)
 
+**BLOQUE DE CONTROL**
+![image](https://user-images.githubusercontent.com/93899658/157124758-7ac1e173-cc59-467f-8387-6b225233eb82.png)
+![image](https://user-images.githubusercontent.com/93899658/157124820-8af66a68-7997-410f-978c-b917b0a02fe8.png)
+
+**BLOQUE DE LOGICA**
+![image](https://user-images.githubusercontent.com/93899658/157124862-34ff665f-d24d-4642-a83c-4b1cbe0d0c3d.png)
+
+**BLOQUE DE MATEMATICAS**
+![image](https://user-images.githubusercontent.com/93899658/157124925-0feba971-511e-48bb-b707-13f37edd7f2b.png)
+
+
+
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ##### 3.1. Creacion de la cuenta en App Invento y creacion de un nuevo proyecto.
