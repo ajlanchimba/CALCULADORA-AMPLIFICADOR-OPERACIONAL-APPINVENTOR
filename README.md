@@ -57,6 +57,17 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 ##### 3.4. Creacion de la calculadora SUMADOR
 
 
+![image](https://user-images.githubusercontent.com/93899658/157056383-10b6e305-ff15-4c75-9c7c-a612569d9efb.png)
+
+      - Los elementos que componen la interface de CALCULADORA SUMADOR estan anidadas como se muestra en la lista de componentes.
+      
+##### 3.4.1 Algoritmo
+
+      - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+      
+![image](https://user-images.githubusercontent.com/93899658/157058037-f588ce4a-8e10-4895-8581-7d76b7ce854d.png)
+
+
 
 ##### 3.2.3. En la terminal dos del potenciometro se conecta el Resistor de 1kΩ
 
