@@ -27,7 +27,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ##### 3.1. Creacion de la cuenta en App Invento y creacion de un nuevo proyecto.
 
-      - Se debe dirigir directamente al siguiente enlace: (https://appinventor.mit.edu)      
+      - Se debe dirigir directamente al siguiente enlace [AppInventor](https://appinventor.mit.edu)      
 
 ![image](https://user-images.githubusercontent.com/93899658/157027710-06d4a36c-062a-45f2-b287-86410b4bfb2b.png)
 
@@ -35,15 +35,27 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ![image](https://user-images.githubusercontent.com/93899658/157031157-2cada614-9ccb-4cf4-8da7-af9a5073df51.png)
 
+![image](https://user-images.githubusercontent.com/93899658/157031823-70a9d146-97e1-4bd9-85cd-ab67334c50d8.png)
+ 
+      - Finalmente, se abrira la interface para crear el App
 
-##### 3.2. Procedimiento
+##### 3.2. Creacion de las ventanas para cada ampplificador operacional
+
+![image](https://user-images.githubusercontent.com/93899658/157051689-1ededcbd-61df-4619-aee5-e4d74d649060.png)
+
+      - Es recomendable poner un nombre a cada ventana para mantener un orden y evitar confusiones.
 
 
-##### 3.2.1. Armar el circuito mostrado en la figura 1
+##### 3.3. Creacion del menu principal "Amplificadores Operacionales"
 
-`Figura 1: diagrama del circuito Dimmer` 
+![image](https://user-images.githubusercontent.com/93899658/157053226-27700a42-5bb6-4806-bcb0-6437595e72cb.png)
 
-##### 3.2.2. Se ubicama el potenciometro en el protoboard identificando cada terminal
+
+
+
+##### 3.4. Creacion de la calculadora SUMADOR
+
+
 
 ##### 3.2.3. En la terminal dos del potenciometro se conecta el Resistor de 1kΩ
 
