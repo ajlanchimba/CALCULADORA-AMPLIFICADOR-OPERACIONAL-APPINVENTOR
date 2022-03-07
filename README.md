@@ -191,6 +191,10 @@ https://youtu.be/WPXq6UZsv18
 
 
 
-### 6. BIBLIOGRAFIAS 
+### 7. BIBLIOGRAFIAS 
+- ARACELI SOLEDAD CASILLAS, E. E. (s.f.). Obtenido de FUNDAMENTOS DE AMPLIFICADORES: http://files.electronica56.webnode.es/200000012-41de342da1/Amplificadores%20Operacionales.pdf
+- Bolton, W. (agosto 2017). MECATRÓNICA. Ciudad de México: Alfaomega.
+- SPARTANHACK, S.L. (7 de 3 de 2022). SPACETECHIES. Obtenido de ¿Qué es App Inventor y para: https://www.spacetechies.com/que-es-app-inventor-y-para-que-sirve/
+
 
 
