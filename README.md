@@ -67,16 +67,39 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
       
 ![image](https://user-images.githubusercontent.com/93899658/157058037-f588ce4a-8e10-4895-8581-7d76b7ce854d.png)
 
-![image](https://user-images.githubusercontent.com/93899658/157059678-bc5badb1-4ff1-43d3-82fb-744f6c9153f7.png)
-
+![image](https://user-images.githubusercontent.com/93899658/157061046-416512a8-94d0-4f78-bbde-8a589109f5fe.png)
 
 #### 3.5. Creacion de la calculadora RESTADOR
 
-##### 3.4.1. Algoritmo
+
+![image](https://user-images.githubusercontent.com/93899658/157061404-e84930d0-5622-45db-88b4-3975d0f418ce.png)
+
+     - Los elementos que componen la interface de CALCULADORA RESTADOR estan anidadas como se muestra en la lista de componentes.
+
+
+##### 3.5.1. Algoritmo
+
+     - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+
+![image](https://user-images.githubusercontent.com/93899658/157061921-7bd7ca9b-f176-4c10-8013-0ef2f9d5c138.png)
+
+![image](https://user-images.githubusercontent.com/93899658/157062698-47e18d1b-c020-426a-a381-364d6fe2a932.png)
 
 
 
-##### 3.2.4. Se conecta el capacitor cerámico de 47 nF y de 100 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
+#### 3.6.  Creacion de la calculadora MULTIPLICADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157063512-d9b6d262-5e2e-46ca-a634-49d125f8f99f.png)
+
+     - Los elementos que componen la interface de CALCULADORA MULTIPLICADOR estan anidadas como se muestra en la lista de componentes.
+
+##### 3.6.1. Algoritmo
+
+
+     - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+![image](https://user-images.githubusercontent.com/93899658/157064116-51adc2a4-1f00-49ab-80ff-1754c3450f84.png)
+
+![image](https://user-images.githubusercontent.com/93899658/157064772-705537e0-f217-483e-995f-690d79ede8ee.png)
 
 
 
