@@ -25,16 +25,19 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-##### 3.1. Creacion de la cuenta en App Inventor.
+##### 3.1. Creacion de la cuenta en App Invento y creacion de un nuevo proyecto.
 
       - Se debe dirigir directamente al siguiente enlace: (https://appinventor.mit.edu)      
 
 ![image](https://user-images.githubusercontent.com/93899658/157027710-06d4a36c-062a-45f2-b287-86410b4bfb2b.png)
 
       - Luego, la plataforma automáticamente permitirá crear la aplicación.
-      
-      
+
+![image](https://user-images.githubusercontent.com/93899658/157031157-2cada614-9ccb-4cf4-8da7-af9a5073df51.png)
+
+
 ##### 3.2. Procedimiento
+
 
 ##### 3.2.1. Armar el circuito mostrado en la figura 1
 
