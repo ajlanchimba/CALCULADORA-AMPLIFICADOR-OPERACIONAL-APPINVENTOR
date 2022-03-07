@@ -12,8 +12,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 ##### 1.2. OBJETIVOS ESPECÍFICOS
 
 - Comprender la programacion por medio de bloques y las ventajas que tiene.
-- Investigar y analizar los aplificadores operqacionales.
-- 
+- Investigar y analizar el funcionamiento de los aplificadores operqacionales.
 
 
 ### 2. MARCO TEÓRICO
@@ -185,6 +184,10 @@ https://youtu.be/WPXq6UZsv18
 
 ### 6. CONCLUSIONES 
 
+- La programación por bloques resulta sencilla y fácil de entender debido a que la manera en la que se construye un algoritmo es visual y la estructura como tal no requiere de ciertas reglas como en otros lenguajes, por este y otros motivos la programación por bloques resulta ser una de las mejores alternativas para empezar a programar.
+- La interface que contiene App Inventor es bastante amigable debido a que para construir alguna aplicación solo es necesario seleccionar las herramientas que se consideren necesarias   y ubicarlas donde sea más conveniente en el visor, sin embargo, tiene limitantes con respecto a la personalización dado que no siempre se llega al resultado deseado.
+- Los amplificadores operaciones tienen una parte en común en su estructura algebraica y este es el signo negativo lo que da a entender que el voltaje de salida tiene un desface de 180 grados con respecto a la entrada, de igual manera indica que el voltaje de salida se encuentra retrasada. Por esta razón obtienen el nombre de inversor.
+- De pendiendo de la configuración del circuito de cada amplificador operacional la expresión algebraica del  voltaje de salida será diferente, además que los amplificadores operacionales  para su análisis mediante Nodos cumplen con las condiciones de que sus voltajes de entradas son iguales además que las las corrientes por las entradas del amplificador es igual a cero.
 
 
 
