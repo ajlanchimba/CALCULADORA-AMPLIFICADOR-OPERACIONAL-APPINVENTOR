@@ -154,6 +154,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
       getch();
       }
 
+### 4. RESULTADOS
 
 ##### 3.2.5. Se conectan el diac y el triac.
 
