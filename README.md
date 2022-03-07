@@ -96,7 +96,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 ##### 3.6.1. Algoritmo
 
 
-     - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+     - Para la creacion del algoritmo MULTIPLICADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
 ![image](https://user-images.githubusercontent.com/93899658/157064116-51adc2a4-1f00-49ab-80ff-1754c3450f84.png)
 
 ![image](https://user-images.githubusercontent.com/93899658/157064772-705537e0-f217-483e-995f-690d79ede8ee.png)
@@ -111,7 +111,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 ##### 3.7.1. Algoritmo
 
 
-     - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+     - Para la creacion del algoritmo INTEGRADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
      
 ![image](https://user-images.githubusercontent.com/93899658/157067111-ac200936-a471-4eb0-b324-5506c74024cb.png)
 
