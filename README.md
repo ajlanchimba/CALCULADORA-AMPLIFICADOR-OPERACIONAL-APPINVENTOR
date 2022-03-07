@@ -102,6 +102,26 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 ![image](https://user-images.githubusercontent.com/93899658/157064772-705537e0-f217-483e-995f-690d79ede8ee.png)
 
 
+#### 3.7.  Creacion de la calculadora INTEGRADOR
+
+![image](https://user-images.githubusercontent.com/93899658/157066855-100f7a3e-8e46-4074-bad9-71626da9f4f1.png)
+
+     - Los elementos que componen la interface de CALCULADORA INTEGRADOR estan anidadas como se muestra en la lista de componentes.
+
+##### 3.7.1. Algoritmo
+
+
+     - Para la creacion del algoritmo SUMADOR se debe tener en cuenta la ecuacion algebraica que determina el voltaje de salida Vo
+     
+![image](https://user-images.githubusercontent.com/93899658/157067111-ac200936-a471-4eb0-b324-5506c74024cb.png)
+
+![image](https://user-images.githubusercontent.com/93899658/157070631-633e75be-5496-46c9-a308-bc0ec42402b6.png)
+
+     - Se debe tomar en encuenta la caracteristica de una integral y es que es es la sumatoria de rectangulos que tienen una altura f(x) y ancho infinitesimal dx, dando como resultado el area bajo la curva.
+     - Los limites de la integral deben ser los adecuados.
+ 
+ ![image](https://user-images.githubusercontent.com/93899658/157073325-181f903f-12ed-4361-a596-c77e2533c986.png)
+
 
 ##### 3.2.5. Se conectan el diac y el triac.
 
