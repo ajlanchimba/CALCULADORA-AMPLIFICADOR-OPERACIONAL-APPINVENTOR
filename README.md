@@ -125,7 +125,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 - Teniendo encuenta las caracteristicas anteriores se procede a construir el alfgoritmo para calcular la integral de funcion seno.
 ![image](https://user-images.githubusercontent.com/93899658/157075454-010046da-3b98-427e-8ca9-d4d190265770.png)
 - El ancho del diferencial **dx** puede ser el que sea, aunque debemos recordar que mientras más pequeño sea ese valor más exacto es el resultado.
-     - Para comprender mejor este algoritmo, a continuación tenemos el algoritmo pero en C++
+     - Para comprender mejor este algoritmo, a continuación tenemos lo mismo pero en C++
      
       #include <iostream>
       #include <conio.h>
