@@ -120,7 +120,39 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
      - Se debe tomar en encuenta la caracteristica de una integral y es que es es la sumatoria de rectangulos que tienen una altura f(x) y ancho infinitesimal dx, dando como resultado el area bajo la curva.
      - Los limites de la integral deben ser los adecuados.
  
- ![image](https://user-images.githubusercontent.com/93899658/157073325-181f903f-12ed-4361-a596-c77e2533c986.png)
+![image](https://user-images.githubusercontent.com/93899658/157073528-6d40c0e9-16e3-42d4-8129-5bce5a854ad2.png)
+
+- Teniendo encuenta las caracteristicas anteriores se procede a construir el alfgoritmo para calcular la integral de funcion seno.
+![image](https://user-images.githubusercontent.com/93899658/157075454-010046da-3b98-427e-8ca9-d4d190265770.png)
+
+     - Para comprender mejor este algoritmo, a continuación tenemos el código en C++
+     
+      #include <iostream>
+      #include <conio.h>
+      #include <math.h>
+
+      using namespace std;
+
+      int main()
+
+      {
+      float i,a,n,dx,s;
+      cout<<"ingresar primer extremo.: ";
+      cin>> a;
+      cout<<"ingresar 2do extremo.: ";
+      cin>>n;
+      dx=0.0005;
+      s=0;
+
+
+      for(i=a;i<=n;i=i+dx)
+      { 
+      s=s+sin(i+dx)*dx;
+      }
+
+      cout<<" la integral es: "<<s;
+      getch();
+      }
 
 
 ##### 3.2.5. Se conectan el diac y el triac.
