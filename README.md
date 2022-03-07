@@ -180,6 +180,7 @@ Creación de una Aplicación móvil en App inventor para el calculo con amplific
 
 ### 5. VIDEO
 
+https://youtu.be/WPXq6UZsv18
 
 
 ### 6. CONCLUSIONES 
